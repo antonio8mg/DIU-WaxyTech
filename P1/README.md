@@ -1,15 +1,4 @@
-## DIU - Practica1, entregables
-
-
-
-
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
-
-
-(valoración y conclusiones de esta etapa)
+## DIU - Practica1, Valoraciones y Conclusiones
 
 Comparando en el Competitive Analysis nos encontramos que de los 10 puntos que hemos tenido en cuenta en el analisis, las mejores han sido "FreeTour" y "Tablao Flamenco" que  cumplen 7, y "Taller de Artesanía Nazarí" cumple 6.
 
