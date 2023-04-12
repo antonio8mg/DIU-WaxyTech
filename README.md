@@ -39,7 +39,7 @@ Fijándonos en el Competitive Analysis vemos que de los 10 puntos que hemos teni
 -----
 Hemos elegido a una persona joven que quiere conocer más a fondo una ciudad ya que hay mucha gente joven a la que le gusta viajar para conocer varios lugares, pero con un impedimento en su vida que es una enfermedad auditiva, y a una persona mayor, ya jubilada que quiere vivir cerca de sus hijas y se muda cerca de ellas porque es algo que ocurre muy a menudo. 
 <img width="1024" alt="Persona #1" src="https://user-images.githubusercontent.com/73304805/231498949-44bcace0-c7a7-49a3-9c50-c4fd943f181f.png">
-<img width="1024" alt="Persona #1 (1)" src="https://user-images.githubusercontent.com/73304805/231498963-8e3c6436-13e2-4150-8884-bcb0c18288d0.png">
+<img width="1024" alt="Persona #2" src="https://user-images.githubusercontent.com/73304805/231499935-6d4afa03-51de-444e-a230-140b17b9df56.jpeg")
 
 
 
