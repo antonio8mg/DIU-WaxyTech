@@ -10,7 +10,7 @@ Fijándonos en el Competitive Analysis vemos que de los 10 puntos que hemos teni
 -----
 Hemos elegido a una persona joven que quiere conocer más a fondo una ciudad ya que hay mucha gente joven a la que le gusta viajar para conocer varios lugares y a una persona mayor, ya jubilada que quiere vivir cerca de sus hijas y se muda cerca de ellas porque es algo que ocurre muy a menudo. 
 <img width="1024" alt="Persona #1" src="https://user-images.githubusercontent.com/73304805/231498650-490c7e01-653d-4161-b5fc-c3dab6802b34.png">
-<img width="1024" alt="Persona #1 (1)" src="https://user-images.githubusercontent.com/73304805/231498600-c276878a-310b-4ca4-a4d4-6105c96df029.png">
+![WhatsApp Image 2023-04-12 at 17 03 50](https://user-images.githubusercontent.com/73304805/231500342-8b603f5b-d02e-4b86-ae14-c4a30a0efcd5.jpeg)
 
 
 1.c User Journey Map
