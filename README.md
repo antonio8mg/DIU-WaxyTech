@@ -85,14 +85,13 @@ Además, pese a que no tiene buscador por filtros, es fácil encontrar los disti
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor
+![Captura de pantalla de 2023-05-02 12-00-08](https://user-images.githubusercontent.com/116074772/235638154-26866c15-25fa-4620-9d07-20d43f55d9e0.png)
+
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 ![Captura de pantalla de 2023-05-02 11-49-22](https://user-images.githubusercontent.com/116074772/235636341-8315d557-ec5c-4cba-8fe9-78a40cda0866.png)
-
->>> Definir "User Map" y "Task Flow" ... 
 
 
 
