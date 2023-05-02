@@ -90,8 +90,10 @@ Además, pese a que no tiene buscador por filtros, es fácil encontrar los disti
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
+![Captura de pantalla de 2023-05-02 11-49-22](https://user-images.githubusercontent.com/116074772/235636341-8315d557-ec5c-4cba-8fe9-78a40cda0866.png)
 
 >>> Definir "User Map" y "Task Flow" ... 
+
 
 
 
