@@ -3,7 +3,11 @@
 ### Ideación 
 * Malla receptora de información 
 * Mapa de empatía
-* Point of View 
+* Propuesta de valor
+* Análisis de Tareas 
+* Mapa de sitio y etiquetado 
+* Bocetos
+* Conclusiones
 
 
 ### PROPUESTA DE VALOR
@@ -12,7 +16,7 @@
 
 
 
-### TASK ANALYSIS
+### ANÁLISIS DE TAREAS
 
 ![Captura de pantalla de 2023-05-02 11-49-22](https://user-images.githubusercontent.com/116074772/235642406-e4fadec7-e07c-436d-af3d-c4b4a4cb31b0.png)
 
@@ -22,16 +26,16 @@
 * Sitemap 
 * Labelling 
 
-
-### Prototipo Lo-FI Wireframe 
-
-![BocetosCityRoamers](https://user-images.githubusercontent.com/73304805/235680804-6dc1dcd1-c5db-4a3a-b1f2-c741ea0873d2.png)
-
-### Mapa de sitio y etiquetado 
+### MAPA DE SITIO Y ETIQUETADO
 
 ![_Mapa de sitio y etiquetado](https://user-images.githubusercontent.com/73304805/235681884-7e01a4fb-f6e7-40b0-a107-55207695fce9.jpg)
 
-### Conclusiones  
+### PROTOTIPO Lo-FI WIREFRAME 
+
+![BocetosCityRoamers](https://user-images.githubusercontent.com/73304805/235680804-6dc1dcd1-c5db-4a3a-b1f2-c741ea0873d2.png)
+
+### CONCLUSIONES
+
 Del análisis de tareas deducimos que tanto parejas como familias serán los que más reserven nuestras actividades, y junto con los grupos serán los que más accedan a nuestros servicios. Accederán en una menor medida personas que vayan solas y empresas que ofrezcan un servicio externo.
 Las tareas más importantes son la de registrarse, reservar una actividad y cancelarla.
 
