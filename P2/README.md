@@ -25,6 +25,7 @@
 
 ### Prototipo Lo-FI Wireframe 
 
+![BocetosCityRoamers](https://user-images.githubusercontent.com/73304805/235680804-6dc1dcd1-c5db-4a3a-b1f2-c741ea0873d2.png)
 
 ### Conclusiones  
 Del análisis de tareas deducimos que tanto parejas como familias serán los que más reserven nuestras actividades, y junto con los grupos serán los que más accedan a nuestros servicios. Accederán en una menor medida personas que vayan solas y empresas que ofrezcan un servicio externo.
