@@ -8,7 +8,8 @@
 
 ### PROPUESTA DE VALOR
 
-[PropuestaDeValor.pdf](https://github.com/antonio8mg/DIU-WaxyTech/files/11372166/PropuestaDeValor.pdf)
+![Captura de pantalla de 2023-05-02 12-00-08](https://user-images.githubusercontent.com/116074772/235642519-afa06544-9eb1-4b57-a785-df6d1e8b5fd6.png)
+
 
 
 ### TASK ANALYSIS
