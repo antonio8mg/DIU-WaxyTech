@@ -9,6 +9,10 @@
 * Bocetos
 * Conclusiones
 
+### MALLA RECEPTORA DE INFORMACIÓN
+
+![Malla](https://user-images.githubusercontent.com/73304805/235683381-7adbebbd-655e-4ca0-8427-11285b8dfc86.png)
+
 
 ### PROPUESTA DE VALOR
 
