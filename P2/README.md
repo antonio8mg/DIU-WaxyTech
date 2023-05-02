@@ -7,13 +7,13 @@
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+
+[PropuestaDeValor.pdf](https://github.com/antonio8mg/DIU-WaxyTech/files/11372166/PropuestaDeValor.pdf)
 
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+![Captura de pantalla de 2023-05-02 11-49-22](https://user-images.githubusercontent.com/116074772/235642406-e4fadec7-e07c-436d-af3d-c4b4a4cb31b0.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
