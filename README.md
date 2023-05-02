@@ -85,8 +85,7 @@ Además, pese a que no tiene buscador por filtros, es fácil encontrar los disti
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
-![image 1](https://user-images.githubusercontent.com/116074772/235634273-38b7ae5e-de17-4cac-af66-3057bbdfa93b.png)
+>>> Propuesta de valor
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
