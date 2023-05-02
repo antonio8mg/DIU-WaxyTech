@@ -76,10 +76,8 @@ Además, pese a que no tiene buscador por filtros, es fácil encontrar los disti
   Preguntas | Nuevas ideas
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> Vamos a diseñar una aplicación que mejore las funcionalidades que nos ofrece la página de FreeTourGranada. Para ello, hemos pensado en la página City >>> Roamers (exploradores urbanos), esta nos ofrece rutas turísticas por toda la provincia de Granada, ya no solo la capital, organizadas por nuestros 
+>>> staff, planes fuera del ámbito turístico como puede ser karting o paintball, las cuales tendrán un precio mínimo y el cliente podrá ofrecer más según >>> la experiencia que obtenga.
 
 
 
