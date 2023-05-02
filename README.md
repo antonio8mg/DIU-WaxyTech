@@ -5,11 +5,11 @@ Grupo: DIU1_01AABB.  Curso: 2022/23
 Updated: 11/1/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+City Roamers
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Vamos a diseñar una aplicación que mejore las funcionalidades que nos ofrece la página de FreeTourGranada. Para ello, hemos pensado en la página City Roamers (exploradores urbanos), esta nos ofrece rutas turísticas por toda la provincia de Granada, ya no solo la capital, organizadas por nuestros staff, planes fuera del ámbito turístico como puede ser karting o paintball, las cuales tendrán un precio mínimo y el cliente podrá ofrecer más según la experiencia que obtenga.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
