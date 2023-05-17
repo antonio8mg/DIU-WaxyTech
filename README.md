@@ -14,7 +14,7 @@ Vamos a diseñar una aplicación que mejore las funcionalidades que nos ofrece l
 Logotipo: 
 
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/28ca9522-6f03-4e12-b03f-375223e6ea1a">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/28ca9522-6f03-4e12-b03f-375223e6ea1a" width=30%>
 </picture>
 
 Miembros
