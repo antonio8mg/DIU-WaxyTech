@@ -38,7 +38,7 @@ Hemos usado el tipo de letra “Quicksand” para los títulos, la barra de nave
 Patrones
 
 Los botones de confirmación siempre van orientados hacia la derecha.
-Los botones de información estarán el centro.
+Los botones de información estarán en el centro.
 
 
 ## Mockup: LAYOUT HI-FI
