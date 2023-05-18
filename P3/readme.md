@@ -9,6 +9,7 @@
 ## Guidelines
 Logotipo
 Para hacer el logotipo hemos utilizado canva.
+
 ![Logo](https://github.com/antonio8mg/DIU-WaxyTech/assets/116074772/cb650ebe-0c54-49e7-bbb8-54d806cd8ed3)
 
 Paleta de colores
