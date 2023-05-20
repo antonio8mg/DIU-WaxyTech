@@ -11,7 +11,8 @@
 
 Para hacer el logotipo hemos utilizado canva.
 
-![Logo](https://github.com/antonio8mg/DIU-WaxyTech/assets/116074772/cb650ebe-0c54-49e7-bbb8-54d806cd8ed3)
+![Logo2](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/b111bbd4-8a73-4567-a42e-2a8c33bf030d)
+
 
 **Paleta de colores**
 
