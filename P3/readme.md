@@ -63,7 +63,5 @@ Los botones de información estarán en el centro.
 
 
 ## Documentación: Publicación del Case Study
-
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Esta práctica nos ha parecido la más larga por tener que hacer los bocetos de manera completa. Esto nos ha llevado mucho tiempo porque al principio dedicamos bastante tiempo a elegir el diseño que más nos gustase y era una herramienta nueva para nosotros. El resto de la práctica era más sencillo.
  
