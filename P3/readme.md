@@ -45,14 +45,20 @@ Los botones de información estarán en el centro.
 
 
 ## Mockup: LAYOUT HI-FI
+
+**HOME**
 ![hOME](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/cdedc014-5706-483d-8a92-0c7e9aa9eeb2)
 
+**ACTIVIDADES**
 ![Actividades](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/c00e6d2a-9eb9-4fda-b82f-0ed88005051f)
 
+**SOBRE NOSOTROS**
 ![SOBRENOSOTROS](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/a0026b58-26ba-4598-8d88-e61c220b3ae3)
 
+**INICIAR SESIÓN**
 ![Iniciar sesión](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/0ec96bc4-d41e-46aa-a1a0-207ff14edf18)
 
+**REGISTRARSE**
 ![Registrarse](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/f0f4078c-4167-47c1-9b07-d0d942b61e0c)
 
 
