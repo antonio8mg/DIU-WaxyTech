@@ -11,10 +11,11 @@
 ## Guidelines
 **Logotipo**
 
-Para hacer el logotipo hemos utilizado Canva.
+Para hacer el logotipo hemos utilizado Canva, y hemos realizado dos, uno en negro y otro en blanco para poder utilizarlo en momentos diferentes.
 
 <picture>
   <img alt="Logotipo." src="https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/005d9667-df80-4c84-94e8-7ec4aabd86f2" width="200">
+  <img alt="Logotipo2." src="https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/b7922bb4-9b80-4af9-90fa-f0450f0d7be6" width="200">
 </picture>
 
 **Paleta de colores**
