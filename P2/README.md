@@ -19,7 +19,8 @@ Preguntas a partir de la experiencia: Esta sección son las interrogantes que nu
 Nuevas ideas: Basandonos en lo mencionado anteriormente, aquí hemos incluido ideas que podríamos implementar para mejorar el sitio web.
 
 
-![Malla](https://user-images.githubusercontent.com/73304805/235683381-7adbebbd-655e-4ca0-8427-11285b8dfc86.png)
+![Surface Book - 1](https://github.com/antonio8mg/DIU-WaxyTech/assets/116074772/c9a8c5af-5c91-4fcd-8fc9-674d1df8a18f)
+
 
 
 ### PROPUESTA DE VALOR
