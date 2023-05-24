@@ -129,28 +129,18 @@ Término | Significado
 ![MoodBoard4](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/5132ac4b-f4f1-484b-879e-960ee5b82734)
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
-
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+![LandingPage](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/589f75aa-1d7f-4555-bead-153c15e54aad)
 
 
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
