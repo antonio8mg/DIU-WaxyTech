@@ -126,7 +126,7 @@ Término | Significado
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-![canvas_moodboard-230516_1719](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/7c70ec08-ff4f-4fe3-a867-248d9dd7db59)
+![MoodBoard4](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/5132ac4b-f4f1-484b-879e-960ee5b82734)
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
