@@ -142,6 +142,10 @@ Término | Significado
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+Enlace a proyecto en figma:
+[PROTOTIPO](https://www.figma.com/file/EvPnDyjp7F07Zoe4BUbv3Y/Landing?type=design&node-id=0%3A1&t=chEXECUg291EgkwM-1)
+
+
 ![SobreNosotros-HiFi](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/74d04511-b721-4075-9a14-10c9ac531258)
 ![Actividades-HiFi](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/d0f8d6f1-9dc5-4fe4-b803-21b5ec5d64ba)
 ![Home-HiFi](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/830e2733-83ca-43f0-aeb7-eef047ad2381)
