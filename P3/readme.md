@@ -11,8 +11,7 @@
 ## Guidelines
 **Logotipo**
 
-Para hacer el logotipo hemos utilizado canva.
-![CITY ROAMERS (2)](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/005d9667-df80-4c84-94e8-7ec4aabd86f2)
+Para hacer el logotipo hemos utilizado Canva.
 
 <picture>
   <img alt="Logotipo." src="https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/005d9667-df80-4c84-94e8-7ec4aabd86f2" width="200">
