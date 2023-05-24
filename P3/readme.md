@@ -16,7 +16,9 @@ Para hacer el logotipo hemos utilizado Canva, y hemos realizado dos, uno en negr
 <picture>
   <img alt="Logotipo2." src="https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/ec8f264d-be75-4813-b53a-f8bd03a5a6de" width="200">
  </picture>
-
+<picture>
+  <img alt="Logotipo2." src="https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/ff63d7f2-56ee-4cb4-846c-9f34b2c18008" width="200">
+ </picture>
 
 **Paleta de colores**
 
