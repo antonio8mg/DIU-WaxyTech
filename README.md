@@ -137,10 +137,18 @@ Término | Significado
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+[Guidelines.pdf](https://github.com/antonio8mg/DIU-WaxyTech/files/11555575/Guidelines.pdf)
 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+![SobreNosotros-HiFi](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/74d04511-b721-4075-9a14-10c9ac531258)
+![Actividades-HiFi](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/d0f8d6f1-9dc5-4fe4-b803-21b5ec5d64ba)
+![Home-HiFi](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/830e2733-83ca-43f0-aeb7-eef047ad2381)
+![IniciarSesión-HiFi](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/a27a08a5-8497-4a5c-aefc-0344e312caaf)
+![Registrarse-HiFi](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/dce84343-8bc1-4786-8f15-ff0d4c50ffae)
+
+
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
