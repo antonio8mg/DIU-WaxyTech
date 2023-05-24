@@ -11,10 +11,31 @@
 
 ### MALLA RECEPTORA DE INFORMACIÓN
 
+Para poder plantear nuestro proyecto, en primer lugar, hemos realizado una malla receptora de información, mediante la cual, hemos observado cuatro aspectos:
+
+Interesante/relevante: En esta sección hemos recopilado las propuestas empleadas por la competencia que nos han gustado y consideramos importantes de incorporar en nuestro proyecto.
+Criticas constructivas: En este otro hemos incluido todas las observaciones críticas que hemos identificado en relación a la competencia, y son las que creemos que pueden ser mejoradas o resueltas en nuestra página propia.
+Preguntas a partir de la experiencia: Esta sección son las interrogantes que nuestras personas ficticias han planteado durante su experiencia en la competencia.
+Nuevas ideas: Basandonos en lo mencionado anteriormente, aquí hemos incluido ideas que podríamos implementar para mejorar el sitio web.
+
+
 ![Malla](https://user-images.githubusercontent.com/73304805/235683381-7adbebbd-655e-4ca0-8427-11285b8dfc86.png)
 
 
 ### PROPUESTA DE VALOR
+
+La propuesta de valor de nuestra aplicación dedicada a actividades culturales en la ciudad de Granada se centra en ofrecer a los usuarios una experiencia enriquecedora y diversa que abarca tanto los populares "free tours" como un amplio catálogo de actividades adicionales, ya sean gratuitas o de pago. Nuestra aplicación se distingue por los siguientes aspectos:
+
+1. Variedad y diversidad de actividades: Nuestra página proporciona un amplio catálogo de opciones culturales que va más allá de los tradicionales "free tours". Los usuarios podrán descubrir y elegir entre una variedad de actividades, como visitas a museos, exposiciones, eventos culturales, espectáculos, talleres temáticos y mucho más. Esto les brinda la oportunidad de explorar la riqueza cultural esta ciudad
+
+2. Personalización y recomendaciones: La aplicación utiliza tecnología inteligente para ofrecer recomendaciones personalizadas a los usuarios en función de sus preferencias y actividades realizadas anteriormente, para ello se podrá iniciar sesión para recibir recomendaciones al realizar búsquedas. 
+
+3. Información detallada: Además de proporcionar información esencial sobre las actividades, nuestra aplicación incluye descripciones detalladas, opiniones de otros usuarios y contenido multimedia relacionado. Esto permite a los usuarios tomar decisiones informadas y tener una visión más completa de lo que pueden esperar de cada actividad. Además, también ofrecemos un extra en forma de contenido educativo, curiosidades históricas y datos relevantes para enriquecer aún más la experiencia cultural de los usuarios.
+
+4. Gestión y reserva sencilla: Nuestra aplicación facilita la gestión y reserva de actividades culturales. Los usuarios pueden explorar el catálogo, verificar disponibilidad, realizar reservas y recibir confirmaciones directamente a través de la aplicación. Para consultar las reservas se puede iniciar sesión y ver cuales se tienen asociadas al usuario, o bien simplemente consultar una reserva con el código que se envia al ser realizada.
+
+En resumen, nuestra aplicación ofrece una propuesta de combinacinar la accesibilidad de los "free tours" con un amplio catálogo de actividades culturales en Granada. Buscamos brindar a los usuarios una experiencia cultural enriquecedora y memorable en la ciudad.
+
 
 ![Captura de pantalla de 2023-05-02 12-00-08](https://user-images.githubusercontent.com/116074772/235642519-afa06544-9eb1-4b57-a785-df6d1e8b5fd6.png)
 
