@@ -91,12 +91,12 @@ Además, pese a que no tiene buscador por filtros, es fácil encontrar los disti
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
->>> Familias: familias modernas que buscan muchas actividades distintas y relacionarse con más gente.
->>> Grupos: viajes de fin de curso, grupos de amigos, etc. Prefieren actividades más activas. 
->>> Parejas: Para planes románticos y conocer el mundo.
->>> Personas en solitario: personas que viajan solas buscando nuevas experiencias.
->>> Empresas externas: empresas que proveen las actividades ofreciendo servicios.
->>> Las actividades en negrita son las más importantes.
+- Familias: familias modernas que buscan muchas actividades distintas y relacionarse con más gente.
+- Grupos: viajes de fin de curso, grupos de amigos, etc. Prefieren actividades más activas. 
+- Parejas: Para planes románticos y conocer el mundo.
+- Personas en solitario: personas que viajan solas buscando nuevas experiencias.
+- Empresas externas: empresas que proveen las actividades ofreciendo servicios.
+- Las actividades en negrita son las más importantes.
 
 ![Captura de pantalla de 2023-05-02 11-49-22](https://user-images.githubusercontent.com/116074772/235636341-8315d557-ec5c-4cba-8fe9-78a40cda0866.png)
 
@@ -111,14 +111,15 @@ Además, pese a que no tiene buscador por filtros, es fácil encontrar los disti
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Login  | acceder a plataforma
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Plantear el  diseño del layout para Web/movil (organización y simulación ):
 
+https://github.com/antonio8mg/DIU-WaxyTech/blob/master/P2/BocetosLoFi.pdf
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
