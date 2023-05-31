@@ -55,11 +55,10 @@ Ambos nos parecen bastante realistas y habituales.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: https://github.com/antonio8mg/DIU-WaxyTech/blob/master/P1/Usability-review.pdf
->>> - Valoración final (numérica): 67
->>> - Comentario sobre la valoración: La página web que nos ha tocado (Free tour) es bastante decente en cuanto a la
+
+Enlace al documento: https://github.com/antonio8mg/DIU-WaxyTech/blob/master/P1/Usability-review.pdf
+Valoración final (numérica): 67
+La página web que nos ha tocado (Free tour) es bastante decente en cuanto a la
 reserva de actividades, ya que proporciona una forma fácil y rápida de reservar tours y las descripciones de estos son bastante buenas. 
 Además, pese a que no tiene buscador por filtros, es fácil encontrar los distintos tour.
 
