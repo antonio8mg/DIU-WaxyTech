@@ -46,6 +46,22 @@ En resumen, nuestra aplicación ofrece una propuesta de combinacinar la accesibi
 
 ![Captura de pantalla de 2023-05-02 11-49-22](https://user-images.githubusercontent.com/116074772/235642406-e4fadec7-e07c-436d-af3d-c4b4a4cb31b0.png)
 
+En conclusión, el análisis de tareas realizado revela varias observaciones importantes sobre las diferentes funciones y responsabilidades dentro de nuestra empresa, así como las interacciones de las diferentes entidades involucradas en el uso de nuestra plataforma de actividades.
+
+* Leyenda: 
+Frecuencia de uso: 
+Baja: B
+Media: M
+Alta: A
+Las actividades en negrita son las más importantes.
+
+Hemos identificado los siguientes usuarios:
+- Familias: familias modernas que buscan muchas actividades distintas y relacionarse con más gente.
+- Grupos: viajes de fin de curso, grupos de amigos, etc. Prefieren actividades más activas. 
+- Parejas: Para planes románticos y conocer el mundo.
+- Personas en solitario: personas que viajan solas buscando nuevas experiencias.
+- Empresas externas: empresas que proveen las actividades ofreciendo servicios.
+
 
 ### ARQUITECTURA DE INFORMACIÓN
 
