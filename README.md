@@ -156,10 +156,8 @@ Enlace a proyecto en figma:
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
+Esta práctica nos ha parecido la más larga por tener que hacer los bocetos de manera completa. Esto nos ha llevado mucho tiempo porque al principio dedicamos bastante tiempo a elegir el diseño que más nos gustase y era una herramienta nueva para nosotros. El resto de la práctica era más sencillo.
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
