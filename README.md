@@ -180,8 +180,8 @@ Nos ha sido asignado el proyecyo de "Magister" donde han realizado una página w
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | María  | H / 25   | Informática  | Alta       | Asqueada | Web       | A 
 | María  | H / 25   | Informática  | Alta       | Asustada     | Web        | B 
-| Juan | M / 67   | Jubilado     | Baja        | Emocional    | Web      | A
-| Juan  | H / 67   | Jubilado  | Baja       | Racional     | Web        | B 
+| Juan | M / 67   | Jubilado     | Baja        | Entusiasmado    | Web      | A
+| Juan  | H / 67   | Jubilado  | Baja       | Preocupado    | Web        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
