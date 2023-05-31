@@ -166,8 +166,8 @@ Esta práctica nos ha parecido la más larga por tener que hacer los bocetos de 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Nos ha sido asignado el proyecyo de "Magister" donde han realizado una página web para gestionar un trablao flamenco llamado "La alboreá", utilizando colores rojos y negros y con gran cantidad de imagenes procedentes del mundo del flamenco.
+(https://github.com/pepeilo02/DIU1.Magister)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -178,10 +178,10 @@ Esta práctica nos ha parecido la más larga por tener que hacer los bocetos de 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| María  | H / 25   | Informática  | Alta       | Asqueada | Web       | A 
+| María  | H / 25   | Informática  | Alta       | Asustada     | Web        | B 
+| Juan | M / 67   | Jubilado     | Baja        | Emocional    | Web      | A
+| Juan  | H / 67   | Jubilado  | Baja       | Racional     | Web        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
