@@ -36,6 +36,8 @@ ROLES:
       EMOCIONES:  Satisfecho y agradecido
 
 # A/B Testing. 
+Como resumen de lo obtenido en el abtesting obtenemos esta tabla. 
+![image](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/f57e7081-4b6a-4ce2-a08f-84f9b3731b90)
 
 
 # Tareas realizadas 
