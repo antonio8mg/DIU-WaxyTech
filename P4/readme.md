@@ -57,3 +57,10 @@ A continuación, presentamos la tabla con las tareas realizadas por los 4 partic
  Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
 # Conclusiones
+Tras haber hecho el A|B testing de ambas páginas y analizando los SUS Score hemos llegado a las siguientes conclusiones:
+* En cuanto a la página web A, se aprecia claramente que tiene una mayor aceptación por las personas jóvenes, ya que son actividades que exigen tener una mejor condición física. Además, vemos que la media del SUS Score (78,75) es bastante buena, ya que teniendo en cuenta que se tiene en cuenta la opinión de una persona que va en silla de ruedas (no le es sencillo realizar tours ni actividades) se encuentra cerca de 80, que ya entraría en la calificación de excelente.
+* En cuanto a la página web B, hay una aceptación bastante similar entre personas jóvenes y de elevada edad, ya que son actuaciones que atraen a públicos de todas las edades y que no requieren actividad física. El SUS Score obtenido en esta página es también de 78,75.
+
+* Si nos fijamos en los bocetos de ambas páginas, los de la página A nos parecen más bonitos y menos cargados, a parte de que son más en cuanto a cantidad
+
+* Si comparamos los resultados obtenidos en ambas páginas, vemos que la página web A está más dedicada a gente joven con una buena condición física, mientras que la página B está orientada a gente de todas las edades. Podemos ver que el resultado es el mismo en ambos casos. Esto se debe a que ambas son intuitivas y fáciles de usar. Si nos fijamos en las personas que han participado y los roles que han tomado, llegamos a la conclusión de que la página web A es un poco mejor que la B, ya que hemos tenido en cuenta a una persona con dificultades de movilidad (va en silla de ruedas), lo que perjudica un poco a los resultados de la página A.
