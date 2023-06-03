@@ -39,7 +39,7 @@ ROLES:
 Como resumen de lo obtenido en el AB testing obtenemos esta tabla. 
 ![image](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/f57e7081-4b6a-4ce2-a08f-84f9b3731b90)
 
-Para verlo con mas detalle ir al fichero P4.pdf.
+Para ver los resultados con mas detalle ir al fichero P4.pdf.
 
 
 # Tareas realizadas 
