@@ -40,6 +40,16 @@ ROLES:
 
 # Tareas realizadas 
 
+A continuación, presentamos la tabla con las tareas realizadas por los 4 participantes, María y Juan con diferentes roles.
+
+###1. Mirar información sobre artistas
+###2. Comprar entradas
+###3. Ver comentarios 
+###4. Cambiar el idioma
+###5. Filtrar espectáculos
+###6. Añadir valoración
+
+![image](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/98e035d1-c311-4edf-82f0-9651b9ac2f62)
 
 # Usability Report de Caso B
  Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
