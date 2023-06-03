@@ -1,7 +1,7 @@
 # DIU - Practica 4, entregables
 
 
-* Users 
+# Users 
 
 Persona 1: María Martínez
 María es la misma chica de la que hablábamos en la primera parte de las prácticas. Es de Málaga, se mudó a Roma. Trabaja de Informática en una multinacional. Posee una discapacidad auditiva que le provoca mareos, y pérdida de audición. Tiene pareja estable, es extrovertida, líder, abierta de mente y bastante solitaria ante el trabajo.
@@ -35,13 +35,13 @@ ROLES:
       ACTIVIDAD: Ayuda en un comedor comunitario
       EMOCIONES:  Satisfecho y agradecido
 
-* A/B Testing. 
+# A/B Testing. 
 
 
-* Tareas realizadas 
+# Tareas realizadas 
 
 
-* Usability Report de Caso B
-* Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
+# Usability Report de Caso B
+ Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
-* Conclusiones
+# Conclusiones
