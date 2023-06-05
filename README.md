@@ -200,7 +200,7 @@ Todos los usuarios realizarán el cuestionario SUS para ambas páginas, tanto la
 | Juan 3: |
   | A: 77,5 | B: 77,5 |
   
-Concñusión: Las valoraciones se encuentran bastante ajustadas, para la A, hay una media de puntuación SUS de 78,75 y para la B, la misma, 78,75. Pero encontramos diferencia principalmente en la persona de avanzada edad y para la persona con discapacidad de movilidad, y llegamos a la conclusión de que esto se debe al contenido de la página web, es decir, en la A se proponen planes bastante activos con alta carga de movilidad física, por el contrario en la B es un tablao flamenco donde se está sentado la mayor parte del tiempo. Ambas páginas consiguen llegar practicamente a la calificación de excelente.
+Conclusión: Las valoraciones se encuentran bastante ajustadas, para la A, hay una media de puntuación SUS de 78,75 y para la B, la misma, 78,75. Pero encontramos diferencia principalmente en la persona de avanzada edad y para la persona con discapacidad de movilidad, y llegamos a la conclusión de que esto se debe al contenido de la página web, es decir, en la A se proponen planes bastante activos con alta carga de movilidad física, por el contrario en la B es un tablao flamenco donde se está sentado la mayor parte del tiempo. Ambas páginas consiguen llegar practicamente a la calificación de excelente.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
