@@ -207,6 +207,13 @@ Concñusión: Las valoraciones se encuentran bastante ajustadas, para la A, hay 
 
 Mirar archivo: https://github.com/antonio8mg/DIU-WaxyTech/blob/master/P4/DIU_report-template-usability-test23.docx.pdf en el repositorio para poder ver el contenido al completo.
 
+![Método UX] 4.e Eye tracking (Caso B)
+----
+![heat3](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/97101f3e-3101-4c32-afef-b3b9294b82ac)
+![heat1](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/0e471f8c-d720-43fa-8f34-61788b1d6f49)
+![heat2](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/98aacb70-ef29-4dba-bf39-30d281cf00af)
+
+
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
