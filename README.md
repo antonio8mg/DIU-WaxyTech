@@ -172,36 +172,41 @@ Nos ha sido asignado el proyecyo de "Magister" donde han realizado una página w
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
+Todos los usuarios realizarán el cuestionario SUS para ambas páginas, tanto la de WaxyTech (nuestra propuesta, A ), como en la de Magister (B).
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | 
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- 
+| María 1 | M / 25   | Informática  | Alta       | Asqueada | Web - Windows/Linux       
+| María 1 | M / 25   | Informática  | Alta       | Asustada     | Web - Windows/Linux         
+| María 1 | M / 25   | Informática  | Alta       | Triste pero con actitud de superación     | Web - Windows/Linux       
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| María  | H / 25   | Informática  | Alta       | Asqueada | Web       | A 
-| María  | H / 25   | Informática  | Alta       | Asustada     | Web        | B 
-| Juan | M / 67   | Jubilado     | Baja        | Entusiasmado    | Web      | A
-| Juan  | H / 67   | Jubilado  | Baja       | Preocupado    | Web        | B 
-
+| Juan | H / 67   | Jubilado (panadero) | Baja        | Entusiasmado    | Web -Windows 
+| Juan  | H / 67   | Jubilado (panadero) | Baja       | Preocupado    | Web - Windows 
+| Juan  | H / 67   | Jubilado (panadero) | Baja       | Satisfecho y agradecido    | Web - Windows
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+A: WaxyTech
+B: Magister
+María 1:
+  A: 85   B: 80
+María 2:
+  A: 82,5   B: 75
+María 3:
+  A: 75   B: 80
+Juan 1:
+  A: 77,5   B: 82,5
+Juan 2:
+  A: 75   B: 77,5
+Juan 3:
+  A: 77,5   B: 77,5
+  
+Concñusión: Las valoraciones se encuentran bastante ajustadas, para la A, hay una media de puntuación SUS de 78,75 y para la B, la misma, 78,75. Pero encontramos diferencia principalmente en la persona de avanzada edad y para la persona con discapacidad de movilidad, y llegamos a la conclusión de que esto se debe al contenido de la página web, es decir, en la A se proponen planes bastante activos con alta carga de movilidad física, por el contrario en la B es un tablao flamenco donde se está sentado la mayor parte del tiempo. Ambas páginas consiguen llegar practicamente a la calificación de excelente.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+Mirar archivo: https://github.com/antonio8mg/DIU-WaxyTech/blob/master/P4/DIU_report-template-usability-test23.docx.pdf en el repositorio para poder ver el contenido al completo.
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
