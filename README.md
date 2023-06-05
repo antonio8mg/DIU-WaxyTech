@@ -176,14 +176,11 @@ Todos los usuarios realizarán el cuestionario SUS para ambas páginas, tanto la
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | 
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- 
-| María 1 | M / 25   | Informática  | Alta       | Asqueada | Web - Windows/Linux      
-| María 1 | M / 25   | Informática  | Alta       | Asustada     | Web - Windows/Linux   
+| María 1 | M / 25   | Informática  | Alta       | Asqueada | Web - Windows/Linux    
+| María 1 | M / 25   | Informática  | Alta       | Asustada     | Web - Windows/Linux
 | María 1 | M / 25   | Informática  | Alta       | Triste pero con actitud de superación     | Web - Windows/Linux    
-
 | Juan | H / 67   | Jubilado (panadero) | Baja        | Entusiasmado    | Web -Windows 
-
 | Juan  | H / 67   | Jubilado (panadero) | Baja       | Preocupado    | Web - Windows 
-
 | Juan  | H / 67   | Jubilado (panadero) | Baja       | Satisfecho y agradecido    | Web - Windows
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
