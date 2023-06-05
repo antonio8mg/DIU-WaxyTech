@@ -205,7 +205,7 @@ Conclusión: Las valoraciones se encuentran bastante ajustadas, para la A, hay u
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Mirar archivo: https://github.com/antonio8mg/DIU-WaxyTech/blob/master/P4/DIU_report-template-usability-test23.docx.pdf en el repositorio para poder ver el contenido al completo.
+Mirar archivo: https://github.com/antonio8mg/DIU-WaxyTech/blob/master/P4/P4_UsabReport_LaAlborea_doneby_DIU2_WaxyTech.pdf en el repositorio para poder ver el contenido al completo.
 
 ![Método UX] 4.e Eye tracking (Caso B)
 ----
