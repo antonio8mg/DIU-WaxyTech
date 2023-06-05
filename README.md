@@ -185,10 +185,11 @@ Todos los usuarios realizarán el cuestionario SUS para ambas páginas, tanto la
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
-A: WaxyTech
-B: Magister
-María 1:
-  A: 85   B: 80
+| A: WaxyTech | B: Magister |
+|--------------|----------|
+| María 1:|
+|--------------|----------|
+  | A: 85   B: 80 |
 María 2:
   A: 82,5   B: 75
 María 3:
