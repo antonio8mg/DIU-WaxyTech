@@ -56,7 +56,7 @@ A continuación, presentamos la tabla con las tareas realizadas por los 4 partic
 ![image](https://github.com/antonio8mg/DIU-WaxyTech/assets/73304805/98e035d1-c311-4edf-82f0-9651b9ac2f62)
 
 # Usability Report de Caso B
-Ver el ficehero DIU_report-template-usability-test23.docx.pdf
+Ver el ficehero https://github.com/antonio8mg/DIU-WaxyTech/blob/master/P4/P4_UsabReport_LaAlborea_doneby_DIU2_WaxyTech.pdf
 
  Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
