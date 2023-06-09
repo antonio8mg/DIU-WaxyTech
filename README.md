@@ -252,8 +252,9 @@ En términos generales, las personas se fijan principalmente en las imágenes y 
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Como equipo, estamos bastante contentos con el desempeño que hemos tenido en estas prácticas, ya que hemos intentado trabajarlas lo máximo posible.
+En el comienzo de las prácticas analizamos la página web de Free Tour ( la correspondiente al grupo DIU2 ). Esto nos ayudó a darnos cuenta de lo importante que es centrarse en que la experiencia de los usuarios cuando navegan por esta sea buena. Lo siguiente que tuvimos que hacer fue diseñar nuestra propia página web basándonos en la ya analizada anteriormente, pero introduciendo mejoras basándonos en el análisis hecho. Creemos que el resultado obtenido finalmente ha sido bastante bueno ya que hemos añadido cosas que consideramos fundamentales en sitios web como, por ejemplo, filtros de búsqueda. Además, cuando realizamos el AB Testing obtuvimos un resultado muy cercano a la valoración de excelente.
+ 
 
 
 
