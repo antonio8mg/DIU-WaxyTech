@@ -27,12 +27,5 @@ Podemos ver que en el landing page la persona que mejor conoce la página web no
 En las páginas de registrarse e inicio de sesión podemos ver que lo que más llama la atención son los títulos y los formularios. Además, la persona mayor emplea más tiempo en entender el formulario.
 En la página en la que se describen las actividades, vemos que las personas jóvenes se fijan bastante más en el filtro que la persona mayor.
 Si nos fijamos en la página “sobre nosotros” vemos que en lo que más se fijan las personas es en las imágenes y el texto. Además, la persona mayor emplea más tiempo en leer los textos, por lo que no le da tiempo casi a llegar a la información de contacto.
-En términos generales, las personas se fijan principalmente en las imágenes y el texto, lo cual indica que nuestra intención de crear una página con actividades llamativas se cumple.
+En términos generales, las personas se fijan principalmente en las imágenes y el texto, lo cual indica que nuestra intención de crear una página llamativa con actividades se cumple.
 
-
-
-### RESUMEN 
-
-Conclusiones de apartados anteriores 
-
-Puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño
