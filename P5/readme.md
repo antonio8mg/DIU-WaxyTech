@@ -19,6 +19,7 @@ Visitar todas las páginas, estando en cada una de ellas 12 segundos.
 * Consultar información sobre la empresa (Nosotros).
 * Consultar la información de las actividades
   * Filtro de búsqueda y visualización de actividades
+
 Para la visualización de los mapas de calor y AOI,accede al siguiente documento: https://github.com/antonio8mg/DIU-WaxyTech/blob/master/P5/EYE%20TRAKING%20-%20WAXYTECH.pdf
 
 ### Conclusión
