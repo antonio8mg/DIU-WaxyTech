@@ -1,6 +1,6 @@
 ## Practica 5: entregables 
 
-Herramienta utilizada
+### Herramienta utilizada
 Para realizar un estudio del comportamiento de los usuarios en nuestra página web hemos utilizado Gaze recorder al igual que hicimos en la práctica anterior con la página web que nos había sido asignada.
 Hemos empleado esta herramienta para ver el comportamiento del usuario en la interacción con nuestra página web, que es lo que más le llama la atención y que es lo que más les interesa.
 ### Estudio
